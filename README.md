@@ -1,2 +1,2 @@
-# iOS-projects
+# iOS
 A repository for all my iOS projects
