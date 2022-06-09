@@ -1,2 +1,4 @@
 # iOS development
-A repository for all my iOS projects during my learning phase.
+A repository for all my iOS projects. Most of these projects are created by following the course 
+
+* **iOS & Swift - The Complete iOS App Development Bootcamp** by Angela Yu.
